@@ -1,0 +1,38 @@
+p {
+    color: #fffdfe;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 5px;
+
+}
+
+body {
+    background-image: url("http://img15.nnm2.com/2/4/c/6/2/b6a382de2a797ee8b6facc953ee.jpg");
+
+}
+
+h2 {
+
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+span {
+    color: white;
+}
+.btn-style:hover{
+    background-color: white;
+
+}
+
+.p-style {
+    color: rgba(0, 0, 0, 0.60);
+
+}
+
+.h2-color {
+    color: white;
+}
